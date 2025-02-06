@@ -48,7 +48,7 @@ public class AnimateMovement : MonoBehaviour
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
-        float verticalVelocity = rigidBody.velocity.y;
+        float verticalVelocity = rigidBody.linearVelocity.y;
 
         if (verticalVelocity > 0.1f)
         {
