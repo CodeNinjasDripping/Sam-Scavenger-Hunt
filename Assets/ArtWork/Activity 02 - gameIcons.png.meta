@@ -146,10 +146,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_0
       rect:
         serializedVersion: 2
-        x: 38
-        y: 453
-        width: 148
-        height: 148
+        x: 39
+        y: 454
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_1
       rect:
         serializedVersion: 2
-        x: 232
-        y: 453
-        width: 148
-        height: 154
+        x: 233
+        y: 454
+        width: 146
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_2
       rect:
         serializedVersion: 2
-        x: 431
-        y: 451
-        width: 148
-        height: 148
+        x: 432
+        y: 452
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_3
       rect:
         serializedVersion: 2
-        x: 622
-        y: 451
-        width: 148
-        height: 148
+        x: 623
+        y: 452
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_4
       rect:
         serializedVersion: 2
-        x: 807
-        y: 453
-        width: 149
-        height: 153
+        x: 808
+        y: 454
+        width: 147
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_5
       rect:
         serializedVersion: 2
-        x: 44
-        y: 238
-        width: 148
-        height: 148
+        x: 45
+        y: 239
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_6
       rect:
         serializedVersion: 2
-        x: 234
-        y: 237
-        width: 150
-        height: 149
+        x: 235
+        y: 238
+        width: 148
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_7
       rect:
         serializedVersion: 2
-        x: 427
-        y: 238
-        width: 148
-        height: 148
+        x: 428
+        y: 239
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_8
       rect:
         serializedVersion: 2
-        x: 620
-        y: 238
-        width: 148
-        height: 148
+        x: 621
+        y: 239
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_9
       rect:
         serializedVersion: 2
-        x: 810
-        y: 238
-        width: 148
-        height: 148
+        x: 811
+        y: 239
+        width: 146
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: Activity 02 - gameIcons_10
       rect:
         serializedVersion: 2
-        x: 47
-        y: 29
-        width: 144
-        height: 144
+        x: 48
+        y: 30
+        width: 142
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: daba77e5ed065a04fb3c29312b377b01
     internalID: 0
     vertices: []
     indices: 
@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Activity 02 - gameIcons_0: 8488981407244747503
+      Activity 02 - gameIcons_1: -4765015423170583765
+      Activity 02 - gameIcons_10: 2381606749275810880
+      Activity 02 - gameIcons_2: 6544310736624140593
+      Activity 02 - gameIcons_3: -8980755613641070905
+      Activity 02 - gameIcons_4: 1173987184115220448
+      Activity 02 - gameIcons_5: -2213350461587634448
+      Activity 02 - gameIcons_6: -5350333678993434430
+      Activity 02 - gameIcons_7: 3766618385283609720
+      Activity 02 - gameIcons_8: -8479136890429042011
+      Activity 02 - gameIcons_9: -5002042834881922772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
