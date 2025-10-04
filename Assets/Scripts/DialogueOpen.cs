@@ -26,6 +26,7 @@ public class DialogueOpen : MonoBehaviour
     public void createClue()
     {
         clue = Random.Range(0, 9);
+        searchDialogue();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -35,23 +36,29 @@ public class DialogueOpen : MonoBehaviour
             checkClue();
         }
         greeting.Play(0);
+        interfaceManager.GetComponent<InterfaceManager>().ShowBox(dialogue, clue);
     }
 
     private void checkClue()
     {
         if (pHolding.holdValue == clue)
         {
+            dialogue = "You found my " + collectibles[clue] + "! Hooray!";
             end = true;
         }
         else
         {
-
+            dialogue = "No, that's not my " + collectibles[clue] + ".";
         }
     }
 
     public void coinsScattered()
     {
         begin = false;
+    }
+    public void searchDialogue()
+    {
+        dialogue = "Hi! Can you help me find my " + collectibles[clue] + "?";
     }
 
 }
